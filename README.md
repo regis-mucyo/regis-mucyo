@@ -2,7 +2,7 @@
 
 ## 🎓 About Me
 
-I'm a **Junior Full-Stack Developer** passionate about building robust and scalable web applications. I work across both **front-end development (React)** and **back-end development (Node.js)**, with a strong interest in growing as a well-rounded and reliable contributor.
+I'm a **Entry Full-Stack Developer** passionate about building robust and scalable web applications. I work across both **front-end development (React)** and **back-end development (Node.js)**, with a strong interest in growing as a well-rounded and reliable contributor.
 
 I’m actively seeking opportunities to contribute to real-world projects and collaborate with experienced development teams.
 
