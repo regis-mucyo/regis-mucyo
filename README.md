@@ -11,8 +11,8 @@ I’m actively seeking opportunities to contribute to real-world projects and co
 ## 💻 Tech Stack
 
 ### Frontend
-- **Languages:** JavaScript (ES6+), HTML5
-- **Styling:** Tailwind CSS
+- **Languages:** JavaScript, HTML
+- **Styling:** Vanilla CSS, Tailwind CSS
 - **Libraries:** React
 
 ### Backend
@@ -22,7 +22,7 @@ I’m actively seeking opportunities to contribute to real-world projects and co
 
 ### Tools
 - Git & GitHub  
-- VS Code, npm
+- VS Code, npm, toggl, trello
 
 ---
 
