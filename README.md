@@ -1,7 +1,5 @@
 # 💫 About Me:
-🎓 About Me<br>I'm a Entry Full-Stack Developer passionate about building robust and scalable web applications. I work across both front-end development (React) and back-end development (Node.js), with a strong interest in growing as a well-rounded and reliable contributor.<br><br>I’m actively seeking opportunities to contribute to real-world projects and collaborate with experienced development teams.<br><br>🌱 Currently Learning & Focusing On<br>Advanced React concepts (hooks, performance optimization)<br>Backend fundamentals with Node.js and Express<br>
-
-[Profile view counter on GitHub](https://komarev.com/ghpvc/?username=regis-mucyo)
+🎓 About Me<br>I'm an Entry Full-Stack Developer passionate about building robust and scalable web applications. I work across both front-end development (React) and back-end development (Node.js), with a strong interest in growing as a well-rounded and reliable contributor.<br><br>I’m actively seeking opportunities to contribute to real-world projects and collaborate with experienced development teams.<br><br>🌱 Currently Learning & Focusing On<br>Advanced React concepts (hooks, performance optimization)<br>Backend fundamentals with Node.js and Express<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/regis_mucyo/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/regis-mucyo-504695399/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mucyoregis250@gmail.com) 
@@ -15,5 +13,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=regis-mucyo&icon=0&color=0)](https://visitcount.itsvg.in)
-
+![](https://komarev.com/ghpvc/?username=regis-mucyo)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
