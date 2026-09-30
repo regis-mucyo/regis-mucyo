@@ -96,8 +96,6 @@
 
 ### Featured Production Projects
 
-### Featured Production Projects
-
 - **TDMP (Rwanda TVET Board):** Central national data platform managing nationwide school records and analytics across TVET institutions.
 - **QuickServe POS:** Real-time restaurant SaaS managing orders, live kitchen queues, and billing across simultaneous users.
 - **Kanguru Travels:** Tour and flight booking platform featuring optimized search indexing and automated direct media uploads.
