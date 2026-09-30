@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  Full-stack software engineer based in Kigali, Rwanda. I build and ship complete web products from scratch to live production servers. Experienced in developing high-performance web systems, national government data platforms (Rwanda TVET Board), and real-time multi-tenant SaaS products.
+  Full-stack software engineer based in Kigali, Rwanda. I build and maintain reliable web systems, backend APIs, and modern user interfaces with a focus on code quality, performance, and dependable production environments.
 </p>
 
 ---
@@ -14,10 +14,10 @@
 ### What I Do
 
 - **Frontend Development:** React, Next.js, TypeScript, Tailwind CSS, Vite, Redux, Context API.
-- **Backend & APIs:** Node.js, Express.js, NestJS, Hono, Bun, RESTful APIs, WebSockets (Socket.IO).
-- **Databases & Architecture:** PostgreSQL, Prisma, Drizzle ORM, schema design, and data reliability.
-- **DevOps & Infrastructure:** Docker, Docker Compose, Nginx reverse proxy, Linux server management, and automated SSL.
-- **Testing & Quality:** Jest, Unit and Integration testing, input validation, and Agile/Scrum workflows.
+- **Backend & APIs:** Node.js, Express.js, NestJS, Hono, Bun, RESTful APIs, WebSockets (Socket.IO)[cite: 1].
+- **Databases & Architecture:** PostgreSQL, Prisma, Drizzle ORM, schema design, and data reliability[cite: 1].
+- **DevOps & Infrastructure:** Docker, Docker Compose, Nginx reverse proxy, Linux server configuration, automated SSL[cite: 1].
+- **Testing & Engineering:** Jest, Unit and Integration testing, input validation, Agile/Scrum workflows[cite: 1].
 
 ---
 
@@ -92,14 +92,6 @@
   </a>
 </p>
 
----
-
-### Featured Production Projects
-
-- **TDMP (Rwanda TVET Board):** Central national data platform managing nationwide school records and analytics across TVET institutions.
-- **QuickServe POS:** Real-time restaurant SaaS managing orders, live kitchen queues, and billing across simultaneous users.
-- **Kanguru Travels:** Tour and flight booking platform featuring optimized search indexing and automated direct media uploads.
-- **Others...**...
 ---
 
 ### Connect With Me
