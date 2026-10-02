@@ -14,10 +14,10 @@
 ### What I Do
 
 - **Frontend Development:** React, Next.js, TypeScript, Tailwind CSS, Vite, Redux, Context API.
-- **Backend & APIs:** Node.js, Express.js, NestJS, Hono, Bun, RESTful APIs, WebSockets (Socket.IO)[cite: 1].
-- **Databases & Architecture:** PostgreSQL, Prisma, Drizzle ORM, schema design, and data reliability[cite: 1].
-- **DevOps & Infrastructure:** Docker, Docker Compose, Nginx reverse proxy, Linux server configuration, automated SSL[cite: 1].
-- **Testing & Engineering:** Jest, Unit and Integration testing, input validation, Agile/Scrum workflows[cite: 1].
+- **Backend & APIs:** Node.js, Express.js, NestJS, Hono, Bun, RESTful APIs, WebSockets (Socket.IO).
+- **Databases & Architecture:** PostgreSQL, Prisma, Drizzle ORM, schema design, and data reliability.
+- **DevOps & Infrastructure:** Docker, Docker Compose, Nginx reverse proxy, Linux server configuration, automated SSL.
+- **Testing & Engineering:** Jest, Unit and Integration testing, input validation, Agile/Scrum workflows.
 
 ---
 
